@@ -1,11 +1,16 @@
 # END-TO-END-DATA-SCIENCE-PROJECT
 
+COMPANY:CODETECH IT SOLUTIONS
 
+NAME:B.SATHWIK SAI
 
+INTERN ID:CT12KQS
 
+DOMAIN:DATA SCIENCE
 
+DURATION:8 WEEKS
 
-
+MENTOR:NEELA SANTHOSH
 
 
 This project demonstrates the full lifecycle of a data science application, from data collection and preprocessing to model development and deployment. The final deliverable is a fully functional API or web application, built using Flask or FastAPI, that allows users to interact with the trained model and make predictions in real time.
